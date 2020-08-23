@@ -52,7 +52,7 @@ def region_of_interest(image):
 	return masked_image
 
 
-cap = cv2.VideoCapture("test_video_or_image")
+cap = cv2.VideoCapture("test_video.mp4")
 
 while(cap.isOpened()):
 	_, frame = cap.read()
