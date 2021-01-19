@@ -1,7 +1,9 @@
 # finding-lanes
 
+An approach to detect road lanes using OpenCV (Hough Transform)
+
 Introduction : 
-Python script that detects 2D lanes out of an video source of road in real-time 
+Python script projecting generated lanes over a source of image / video / real-time video feed 
 
 Requires : OpenCV library, test_video.mp4
 
